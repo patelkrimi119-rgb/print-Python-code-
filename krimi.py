@@ -1,5 +1,5 @@
 print("hello python")
-print("krimi patel")
+print("Shyam patel")
 print("silver oak univerity")
 print("welcome to programming")
 print("i love python")
